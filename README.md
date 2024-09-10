@@ -1,4 +1,3 @@
-Certainly! Here’s how you can structure the provided instructions for a `README.md` file on GitHub:
 
 ```markdown
 # Medusa Store Setup
